@@ -1,1 +1,2 @@
-# PR154
+# Android App
+A simple gaming app of guessing the number
